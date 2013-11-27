@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PG_Sensor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551419513" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551949097" ignored="false" />
     <file path="/index.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551405033" ignored="false" />
-    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551935418" ignored="false" />
+    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385553088063" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="28" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0">
+            <state line="37" column="6" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.7408716">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="52" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.7436209">
+            <state line="37" column="8" selection-start="1680" selection-end="1680" vertical-scroll-proportion="-24.192308">
               <folding />
             </state>
           </provider>
@@ -76,8 +77,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
       </list>
     </option>
   </component>
@@ -190,7 +191,11 @@
       <created>1385551425626</created>
       <updated>1385551425626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="shake integration JS file.">
+      <created>1385551954707</created>
+      <updated>1385551954707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -258,7 +263,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="shake integration." />
+    <option name="LAST_COMMIT_MESSAGE" value="shake integration JS file." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -273,6 +278,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="shake integration." />
+    <MESSAGE value="shake integration JS file." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -285,19 +291,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="28" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="37" column="8" selection-start="1680" selection-end="1680" vertical-scroll-proportion="-24.192308">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="52" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.7436209">
-          <folding />
+        <state line="37" column="6" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.7408716">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

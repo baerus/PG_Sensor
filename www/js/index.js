@@ -34,7 +34,7 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         alert('dev ready!');
-        shake.startWatch(this.onShake);
+//        shake.startWatch(this.onShake);
     },
 
     onShake: function() {
