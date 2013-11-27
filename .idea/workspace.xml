@@ -4,15 +4,13 @@
     <list default="true" id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/shake.js" afterPath="$PROJECT_DIR$/www/js/shake.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PG_Sensor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385553118504" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385565113408" ignored="false" />
     <file path="/index.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551405033" ignored="false" />
-    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385553088063" ignored="false" />
+    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385565568462" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shake.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="shake.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/shake.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.23910482">
+            <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="53" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
+            <state line="19" column="3" selection-start="939" selection-end="939" vertical-scroll-proportion="0.3804476">
               <folding />
             </state>
           </provider>
@@ -64,7 +62,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="26" selection-start="1691" selection-end="1691" vertical-scroll-proportion="-24.192308">
+            <state line="24" column="29" selection-start="815" selection-end="815" vertical-scroll-proportion="-15.692307">
               <folding />
             </state>
           </provider>
@@ -88,10 +86,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/shake.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -212,7 +210,11 @@
       <created>1385553130222</created>
       <updated>1385553130222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Shake wieder drin&#10;Shake.js angepasst.">
+      <created>1385565116312</created>
+      <updated>1385565116312</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -280,7 +282,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shake erstmal raus damit ühaupt was geht oO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shake wieder drin&#10;Shake.js angepasst." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -297,25 +299,12 @@
     <MESSAGE value="shake integration." />
     <MESSAGE value="shake integration JS file." />
     <MESSAGE value="Shake erstmal raus damit ühaupt was geht oO" />
+    <MESSAGE value="Shake wieder drin&#10;Shake.js angepasst." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="26" selection-start="1691" selection-end="1691" vertical-scroll-proportion="-24.192308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="32" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
@@ -327,7 +316,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/shake.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.23910482">
+        <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="29" selection-start="815" selection-end="815" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="3" selection-start="939" selection-end="939" vertical-scroll-proportion="0.3804476">
           <folding />
         </state>
       </provider>
