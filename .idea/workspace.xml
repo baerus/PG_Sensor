@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Sensor\www\js\index.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/general.js" />
+      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Sensor\www\css\index.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PG_Sensor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566622617" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566740026" ignored="false" />
     <file path="/index.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551405033" ignored="false" />
-    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566721792" ignored="false" />
+    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385572328345" ignored="false" />
     <file path="/config.xml" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566657644" ignored="false" />
+    <file path="/general.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385572191600" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,28 +34,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="shake.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/shake.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="38" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="60" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3813084">
+            <state line="26" column="8" selection-start="874" selection-end="874" vertical-scroll-proportion="0.66728973">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/general.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="26" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/general.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="22" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -78,8 +80,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/js/index.js" />
-        <option value="$PROJECT_DIR$/www/js/shake.js" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/shake.js" />
+        <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/css/general.css" />
+        <option value="$PROJECT_DIR$/www/js/general.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
@@ -167,12 +172,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Sensor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Sensor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -180,6 +204,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -230,7 +262,11 @@
       <created>1385566421219</created>
       <updated>1385566421219</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Jetzt müsste alles gleich sein wtf v2">
+      <created>1385566742942</created>
+      <updated>1385566742942</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -318,7 +354,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jetzt müsste alles gleich sein wtf!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jetzt müsste alles gleich sein wtf v2" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -338,6 +374,7 @@
     <MESSAGE value="Shake wieder drin&#10;Shake.js angepasst." />
     <MESSAGE value="neuer Versuch, mehr Kopie." />
     <MESSAGE value="Jetzt müsste alles gleich sein wtf!" />
+    <MESSAGE value="Jetzt müsste alles gleich sein wtf v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -345,21 +382,35 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+        <state line="6" column="38" selection-start="281" selection-end="281" vertical-scroll-proportion="0.18181819">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/shake.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="36" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0">
+        <state line="62" column="5" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/general.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="60" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3813084">
+        <state line="26" column="8" selection-start="874" selection-end="874" vertical-scroll-proportion="0.66728973">
           <folding />
         </state>
       </provider>

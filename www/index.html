@@ -3,7 +3,10 @@
 <head>
     <title>Accelerometer Shake Test</title>
 
+    <link rel="stylesheet" type="text/css" href="css/general.css">
+
     <script type="text/javascript" charset="utf-8" src="phonegap.js"></script>
+    <script type="text/javascript" charset="utf-8" src="js/general.js"></script>
     <script type="text/javascript" charset="utf-8" src="js/shake.js"></script>
     <script type="text/javascript" charset="utf-8">
 
@@ -16,20 +19,15 @@
         function onDeviceReady() {
             var element = document.getElementById('deviceIsReady');
             element.innerHTML = 'Watching shake movement...';
-
-            shake.startWatch(onDetected);
+            shake.startWatch(onShake);
         }
-
-        function onDetected() {
-            var element = document.getElementById('shakeData');
-            alert('Shaked!');
-        }
-
     </script>
 </head>
 <body>
-<div id="deviceIsReady">Loading...</div>
-<p id="shakeData">
-</p>
+    <ul>
+        <li id="t1" class="selected">Tab 1</li>
+        <li id="t2">Tab 2</li>
+    </ul>
+    <a href="#" onclick="onShake()">Klick mich mal eben schnell</a>
 </body>
 </html>
