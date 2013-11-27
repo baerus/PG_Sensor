@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/general.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/general.js" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Sensor\www\css\index.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PG_Sensor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566740026" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385572373534" ignored="false" />
     <file path="/index.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551405033" ignored="false" />
     <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385572328345" ignored="false" />
     <file path="/config.xml" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566657644" ignored="false" />
@@ -37,7 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="874" selection-end="874" vertical-scroll-proportion="0.66728973">
+            <state line="18" column="34" selection-start="657" selection-end="657" vertical-scroll-proportion="0.5719626">
               <folding />
             </state>
           </provider>
@@ -266,7 +263,11 @@
       <created>1385566742942</created>
       <updated>1385566742942</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tabs integrated.">
+      <created>1385572376945</created>
+      <updated>1385572376945</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -354,7 +355,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jetzt müsste alles gleich sein wtf v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tabs integrated." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -375,6 +376,7 @@
     <MESSAGE value="neuer Versuch, mehr Kopie." />
     <MESSAGE value="Jetzt müsste alles gleich sein wtf!" />
     <MESSAGE value="Jetzt müsste alles gleich sein wtf v2" />
+    <MESSAGE value="Tabs integrated." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -410,7 +412,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="874" selection-end="874" vertical-scroll-proportion="0.66728973">
+        <state line="18" column="34" selection-start="657" selection-end="657" vertical-scroll-proportion="0.5719626">
           <folding />
         </state>
       </provider>
