@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Sensor\www\js\index.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PG_Sensor.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385565759848" ignored="false" />
+    <file path="/Dummy.txt" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566622617" ignored="false" />
     <file path="/index.js" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385551405033" ignored="false" />
-    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385565568462" ignored="false" />
+    <file path="/index.html" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566721792" ignored="false" />
+    <file path="/config.xml" changelist="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" time="1385566657644" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="32" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="shake.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/shake.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="52" selection-start="482" selection-end="482" vertical-scroll-proportion="0.33333334">
+            <state line="6" column="38" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="29" selection-start="815" selection-end="815" vertical-scroll-proportion="-15.692307">
+            <state line="17" column="60" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3813084">
               <folding />
             </state>
           </provider>
@@ -87,8 +79,8 @@
       <list>
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/js/shake.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -191,6 +183,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1b1d8a2c-0e3f-4b00-92bf-f0447eebbfc5" name="Default" comment="" />
@@ -217,7 +226,11 @@
       <created>1385565763108</created>
       <updated>1385565763108</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Jetzt müsste alles gleich sein wtf!">
+      <created>1385566421219</created>
+      <updated>1385566421219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -305,7 +318,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="neuer Versuch, mehr Kopie." />
+    <option name="LAST_COMMIT_MESSAGE" value="Jetzt müsste alles gleich sein wtf!" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -324,17 +337,16 @@
     <MESSAGE value="Shake erstmal raus damit ühaupt was geht oO" />
     <MESSAGE value="Shake wieder drin&#10;Shake.js angepasst." />
     <MESSAGE value="neuer Versuch, mehr Kopie." />
+    <MESSAGE value="Jetzt müsste alles gleich sein wtf!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="32" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="6" column="38" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -347,14 +359,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="815" selection-end="815" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="52" selection-start="482" selection-end="482" vertical-scroll-proportion="0.33333334">
+        <state line="17" column="60" selection-start="637" selection-end="637" vertical-scroll-proportion="0.3813084">
           <folding />
         </state>
       </provider>

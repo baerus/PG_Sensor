@@ -1,13 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="de.mfischer.sensor" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Sensor</name>
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.camera.pgbtest" version="1.0.0">
+    <name>
+        Accelerometer Shake Test (MF)
+    </name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Accelerometer Shake Test (MF!)
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
-    </author>
 
+    <author href="https://sub.example.com" email="someone@email.com">
+        Yourname
+    </author>
     <gap:platforms>
         <gap:platform name="android" minVersion="2.1"/>
         <gap:platform name="webos"/>
@@ -15,7 +17,8 @@
         <gap:platform name="blackberry" project="widgets"/>
     </gap:platforms>
 
-    <feature name="http://api.phonegap.com/1.0/device" />
+
+    <feature name="http://api.phonegap.com/1.0/device"/>
     <feature name="http://api.phonegap.com/1.0/battery"/>
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/contacts"/>
@@ -24,6 +27,5 @@
     <feature name="http://api.phonegap.com/1.0/media"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
     <feature name="http://api.phonegap.com/1.0/notification"/>
-
 
 </widget>
