@@ -1,5 +1,4 @@
 function onShake() {
-    alert('Das Gerät wurde geschüttelt');
     var tab1 = document.getElementById('t1');
     var tab2 = document.getElementById('t2');
     var tab3 = document.getElementById('t3');
@@ -11,6 +10,7 @@ function onShake() {
     tab4.className = "";
     // Tab 3 selektieren
     tab3.className = "selected"
+    alert('Das Gerät wurde geschüttelt');
 }
 
 function setTabSelected(tabId) {
